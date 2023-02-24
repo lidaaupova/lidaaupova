@@ -8,7 +8,7 @@
 
 ### Codewars
 
-<a><img src="https://www.codewars.com/users/lidaaupova/badges/large"></a>
+<a target="_blank" href="https://www.codewars.com/users/lidaaupova"><img src="https://www.codewars.com/users/lidaaupova/badges/large"></a>
 
 ### Badges
 
